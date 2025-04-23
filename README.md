@@ -1,2 +1,3 @@
 # Elevatelabs
 My first task, I removed the null values by the Ctrl G and Removed duplicates by the data format and standardised converted them to lower case letters and date time format with the year day and month , using the python i downloaded the required libraries for the dataset and removed the null values by importing dataset and using isnull() function and by the duplicate rows removal()
+My second task, I added the sales dataset to the microsoft and created the dashbord by using the stack bar and column graphs and line charts, pie chart and the donut chart and gaurge,etc for which represent the sales of the furniture, cloth, books, shelfs and chair sales in the dashboard as with the effective representation and analysis.
