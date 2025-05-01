@@ -4,4 +4,5 @@ My second task, I added the sales dataset to the microsoft and created the dashb
 My third task , I have completed the dashboard using the powerBi and using the student dataset and by using the various grid, charts and graphs and it i changed the colours and themes and analyseing in clear for the viwers to understand.
 My Fourth task was to creat the sql create , insert,select, groupby, aggregate functions and the conditions and the different joint functions I used for the anlysing.
 My Fifth task was about the analysing the titanic dataset using the jupyter notebook and making the analysis of the females and males lost their lives and about their conditions# Exploratory Data Analysis - Titanic Dataset,to understand trends, patterns, and relationships in the Titanic dataset using visual and statistical techniques.Python,Pandas,Seaborn, Matplotlib,female passengers had a higher survival rate.1st class passengers were more likely to survive. Fare and Age influenced survival probability.
+This project connects a SQLite sales database using Python to perform basic sales analysis. It summarizes total quantity
 
